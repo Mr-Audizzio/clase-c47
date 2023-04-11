@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primera pagina web</title>
+    <meta name="äuthor" content="Alumno Joel">
+    <meta name="description" content="esta es mi primera pagina web">
+    <meta name="keywords" content="tutorial , desarrollo web, alumno joel">
+    <meta http-equiv="refresh" content="5; https//www.google.com">
+    <meta http-equiv="cookie" content="user=aulumnojoel">
+    <link  rel="stylesheet" href="style.css">
+</head>
+<body>
+    <script src="index.js"></script>
+</body>
+</html>
